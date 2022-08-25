@@ -6,3 +6,5 @@ Some of the most efficient libraries for Scientific Computation
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/bhaskatripathi/Scientific_computing_libraries/blob/main/Scientific%20computing%20python%20libraries.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+xfun::embed_file("https://github.com/bhaskatripathi/Scientific_computing_libraries/blob/main/Scientific%20computing%20python%20libraries.pdf")
