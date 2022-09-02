@@ -1,11 +1,15 @@
 # Scientific computing python libraries
 Below are a few of the helpful libraries that I've utilized in my Ph.D. dissertation:
 ## Scientific programming toolkits
+### Reinforcement Learning Frameworks
 * [PyEMD](https://pyemd.readthedocs.io/en/latest/intro.html) : PyEMD is a Python implementation of Empirical Mode Decomposition (EMD) and its variations. One of the most popular expansion is Ensemble Empirical Mode Decomposition (EEMD), which utilises an ensemble of noise-assisted executions.
 * [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/): Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is the next major version of Stable Baselines.
 * [Open AI gym](https://www.gymlibrary.dev/) : A toolkit for developing and comparing reinforcement learning algorithms.
+* [PettingZoo](https://www.pettingzoo.ml/) : Multi-Agent reinforcement learning framework.
+### Multi-objective optimization
 * [Adaptive Experimentation platform (Facebook/Meta)](https://github.com/facebook/Ax) : Bayesian optimization and Multi-armed bandit library from Meta for performing general purpose optimization experiments.
 * [Optuna](https://optuna.org/) : Hyperparameter optimization framework to automate hyperparameter search.
+### Scientific programming packages
 * [SciPy](https://www.scipy.org/) - Python modules for statistics, optimization, integration, linear algebra, etc. (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 * [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python. (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 * [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs. (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
