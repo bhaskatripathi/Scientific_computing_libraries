@@ -2,14 +2,17 @@
 Below are a few of the helpful libraries that I've utilized in my Ph.D. dissertation:
 ## Scientific programming toolkits
 ### Reinforcement Learning Frameworks
-* [PyEMD](https://pyemd.readthedocs.io/en/latest/intro.html) : PyEMD is a Python implementation of Empirical Mode Decomposition (EMD) and its variations. One of the most popular expansion is Ensemble Empirical Mode Decomposition (EEMD), which utilises an ensemble of noise-assisted executions.
 * [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/): Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is the next major version of Stable Baselines.
 * [Open AI gym](https://www.gymlibrary.dev/) : A toolkit for developing and comparing reinforcement learning algorithms.
-* [PettingZoo](https://www.pettingzoo.ml/) : Multi-Agent reinforcement learning framework.
+* [PettingZoo](https://www.pettingzoo.ml/) : Multi-Agent reinforcement learning framework. This is the real thing as it supports Multi-objective, Multi Agent Reinforcement Learning that can be utilized for real-world scenarios.
 ### Multi-objective optimization
 * [Adaptive Experimentation platform (Facebook/Meta)](https://github.com/facebook/Ax) : Bayesian optimization and Multi-armed bandit library from Meta for performing general purpose optimization experiments.
 * [Optuna](https://optuna.org/) : Hyperparameter optimization framework to automate hyperparameter search.
-### Scientific programming packages
+### Data Pre-processing
+* [PyEMD](https://pyemd.readthedocs.io/en/latest/intro.html) : PyEMD is a Python implementation of Empirical Mode Decomposition (EMD) and its variations. One of the most popular expansion is Ensemble Empirical Mode Decomposition (EEMD), which utilises an ensemble of noise-assisted executions.
+* [Kalman and Bayesian Filters](https://filterpy.readthedocs.io/en/latest/) : FilterPy is a Python library that implements a number of Bayesian filters, most notably Kalman filters
+* [Wavelet based time series decomposition](https://pywavelets.readthedocs.io/en/latest/): Wavelet Transforms are used for decomposing Time series data for analyzing data where features vary over different scales.
+### Numerical packages
 * [SciPy](https://www.scipy.org/) - Python modules for statistics, optimization, integration, linear algebra, etc. (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 * [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python. (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 * [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs. (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
