@@ -11,7 +11,7 @@ Below are a few of the helpful libraries that I've utilized in my Ph.D. disserta
 ### Data Pre-processing
 * [PyEMD](https://pyemd.readthedocs.io/en/latest/intro.html) : PyEMD is a Python implementation of Empirical Mode Decomposition (EMD) and its variations. One of the most popular expansion is Ensemble Empirical Mode Decomposition (EEMD), which utilises an ensemble of noise-assisted executions.
 * [Kalman and Bayesian Filters](https://filterpy.readthedocs.io/en/latest/) : FilterPy is a Python library that implements a number of Bayesian filters, most notably Kalman filters
-* [Wavelet based time series decomposition](https://pywavelets.readthedocs.io/en/latest/): Wavelet Transforms are used for decomposing Time series data for analyzing data where features vary over different scales.
+* [Wavelet based time series decomposition](https://pywavelets.readthedocs.io/en/latest/): Wavelet Transforms are used to decompose Time series data in order to analyze data where characteristics vary on different scales.
 ### Numerical packages
 * [SciPy](https://www.scipy.org/) - Python modules for statistics, optimization, integration, linear algebra, etc. (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 * [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python. (Python, BSD, [GitHub](https://github.com/numpy/numpy))
