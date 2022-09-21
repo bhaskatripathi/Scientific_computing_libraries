@@ -1,5 +1,5 @@
 # Scientific computing python libraries
-Below are a few of the helpful libraries that I've utilized in my Ph.D. dissertation:
+Below are a few of the helpful libraries that I've utilized in my Ph.D. research work:
 ## Scientific programming toolkits
 ### Reinforcement Learning Frameworks
 * [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/): Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is the next major version of Stable Baselines.
